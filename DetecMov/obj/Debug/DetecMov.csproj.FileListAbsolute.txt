@@ -1,0 +1,26 @@
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\DetecMov.exe.config
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\DetecMov.exe
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\DetecMov.pdb
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.DeteMov.resources
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.exe
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.pdb
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Controls.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Imaging.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Math.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Video.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Vision.dll
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Controls.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Imaging.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Math.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Video.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Alfredo\Desktop\Detección de Movimiento\DetecMov\bin\Debug\AForge.Vision.xml
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Detección de Movimiento\DetecMov\bin\Debug\DetecMov.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Detección de Movimiento\DetecMov\obj\Debug\DetecMov.pdb
